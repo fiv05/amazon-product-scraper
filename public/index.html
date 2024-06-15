@@ -1,0 +1,22 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Amazon</title> <!-- Título da página exibido na aba do navegador -->
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+    <div class="container"> 
+        <h1>Busca na Amazon </h1> <!-- Cabeçalho principal da página -->
+        <input type="text" id="keyword" placeholder="Entre com a palavra chave">
+        <button id="scrapeBtn">Buscar</button> <!-- Botão que inicia a ação de busca -->
+        <div id="results"></div> <!-- Div onde os resultados serão exibidos -->
+    </div>
+
+    <script src="script.js"></script> <!-- Link para o arquivo JavaScript externo para a lógica do lado do cliente -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</body>
+</html>
+
