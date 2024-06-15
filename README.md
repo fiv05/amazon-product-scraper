@@ -15,10 +15,11 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio bash```
+   cd nome-do-repositorio 
 2.	Instale as depCendências necessárias:
    ```bash
-    npm instal```bash
+   npm instal
+
 3.	Execute a aplicação localmente:
   ```bash
   npm start
