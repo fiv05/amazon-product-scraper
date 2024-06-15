@@ -17,6 +17,6 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio 
 2.	Instale as depCendências necessárias:
-   ```bash
+      ```bash
     npm instal
 
