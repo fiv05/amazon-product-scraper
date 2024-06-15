@@ -20,8 +20,9 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
       ```bash
     npm install
 3.	Execute a aplicação localmente:
-     ```bash npm start
-   Isso iniciará o servidor local na porta 3000.
+     ```bash
+     npm start
+     Isso iniciará o servidor local na porta 3000.```
 
 # Instruções de Execução
 Para executar o projeto:
