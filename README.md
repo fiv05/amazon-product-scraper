@@ -15,16 +15,16 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   cd nome-do-repositorio ```
 2.	Instale as depCendências necessárias:
    ```bash
-  	```npm install
+    npm instal```
 3.	Execute a aplicação localmente:
   ```bash
   npm start
-  Isso iniciará o servidor local na porta 3000.
+  Isso iniciará o servidor local na porta 3000.```
 
-## Instruções de Execução
+# Instruções de Execução
 
 Para executar o projeto:
 
