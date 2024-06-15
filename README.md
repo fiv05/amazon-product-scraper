@@ -1,4 +1,4 @@
-# AmazonProductScraper
+# Amazon Product Scraper
 # Descrição do Projeto
 Este projeto consiste em uma aplicação web que permite buscar produtos na Amazon através de uma palavra-chave. Utiliza tecnologias como Puppeteer para realizar web scraping e Express.js para criar um servidor local que serve uma página HTML interativa.
 
